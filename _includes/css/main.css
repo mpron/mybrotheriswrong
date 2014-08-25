@@ -67,11 +67,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #000;
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #000;
     background-color: #fff;
 }
 
@@ -399,6 +399,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
+    color: #000;
 }
 
 .portfolio-modal .modal-content img {
@@ -442,4 +443,8 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.blackheader {
+    color: #000;
 }
