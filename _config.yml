@@ -6,9 +6,9 @@ baseurl: /mybrotheriswrong
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 26c281 #3fc380 #18bc9c #80b3ff
-  secondary: 734b14 #fD6e8a
-  secondary-dark: 233140 #A2122F
+  primary: 8bc34a
+  secondary: 689f38
+  secondary-dark: ffc107
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
